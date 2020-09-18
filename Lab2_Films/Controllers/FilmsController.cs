@@ -11,9 +11,8 @@ namespace Lab2_Films.Controllers
     [ApiController]
     public class FilmsController : ControllerBase
     {
-        listeDeFilms Meilleurfilm = new listeDeFilms
+        Film[] Meilleurfilm = new Film[]
         {
-            Films = new Film[3] {
                 new Film
                 {
                     Titre = "Les Minions",
@@ -74,12 +73,99 @@ namespace Lab2_Films.Controllers
                     new Vedette { Nom = "Jon Voight", Age="82", Personnage = "Thomas Brian Reynolds"}
                     }
                 }
-            }
         };
 
-        public listeDeFilms MesFilms()
+        [HttpGet]
+        public Film[] MesFilms(bool JusteVedette, int MaxVedette)
         {
-            return Meilleurfilm;
+            Film[] output = Meilleurfilm;
+            Film[] temp =
+            {
+                    new Film { Vedettes = output[0].Vedettes },
+                    new Film { Vedettes = output[1].Vedettes },
+                    new Film { Vedettes = output[2].Vedettes }
+                };
+
+            for (int i = 0; i < output.Length; i++)
+            {
+                temp[i].Vedettes = temp[i].Vedettes.SkipLast(3 - MaxVedette).ToArray();
+
+                output[i].Vedettes = temp[i].Vedettes;
+
+            }
+
+            if (JusteVedette)
+            {
+                return temp;
+            }
+            else
+            {
+                return output;
+            }
+        }
+
+        [HttpGet("{NomFilm}")]
+        public Film MonFilm(string NomFilm, bool JusteVedette, int MaxVedette)
+        {
+            if (NomFilm == "Minions")
+            {
+                Film output = Meilleurfilm[0];
+                Film temp = new Film { Vedettes = output.Vedettes };
+
+                temp.Vedettes = temp.Vedettes.SkipLast(3 - MaxVedette).ToArray();
+
+                output.Vedettes = temp.Vedettes;
+
+                if (JusteVedette)
+                {
+                    return temp;
+                }
+                else
+                {
+                    return output;
+                }
+            }
+            else if (NomFilm == "FightClub")
+            {
+                Film output = Meilleurfilm[1];
+                Film temp = new Film { Vedettes = output.Vedettes };
+                
+                temp.Vedettes = temp.Vedettes.SkipLast(3 - MaxVedette).ToArray();
+
+                output.Vedettes = temp.Vedettes;
+
+                if (JusteVedette)
+                {
+                    return temp;
+                }
+                else
+                {
+                    return output;
+                }
+            }
+            else if (NomFilm == "EnnemyOfTheState")
+            {
+                Film output = Meilleurfilm[2];
+                Film temp = new Film { Vedettes = output.Vedettes };
+
+                temp.Vedettes = temp.Vedettes.SkipLast(3 - MaxVedette).ToArray();
+
+                output.Vedettes = temp.Vedettes;
+
+                if (JusteVedette)
+                {
+                    return temp;
+                }
+                else
+                {
+                    return output;
+                }
+            }
+            else
+            {
+
+                return new Film { };
+            }
         }
     }
 }

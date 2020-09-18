@@ -5,7 +5,21 @@
 </head>
 
 <body>
-
+    <button onclick="main('api/Films')">ALL</button>
+    <br><br>
+    <button onclick="main('api/Films/Minions')">Minions</button>
+    <br>
+    <button onclick="main('api/Films/FightClub')">Fight Club</button>
+    <br>
+    <button onclick="main('api/Films/EnnemyOfTheState')">Ennemy Of The State</button>
+    <br>
+    <input type="checkbox" id="OnlyVedette" name="OnlyVedette">
+    <label name="OnlyVedette">Juste les vedettes</label>
+    <br><br>
+    <p>Maximum de vedettes</p>
+    <input id="MaxVedette1" type="radio" name="MaxVedette" value="1"/><label for="MaxVedette1">1</label>
+    <input id="MaxVedette2" type="radio" name="MaxVedette" value="2"/><label for="MaxVedette2">2</label>
+    <input id="MaxVedette3" type="radio" name="MaxVedette" value="3" checked/><label for="MaxVedette3">3</label>
 
     <script src="~/js/site.js"></script>
 </body>

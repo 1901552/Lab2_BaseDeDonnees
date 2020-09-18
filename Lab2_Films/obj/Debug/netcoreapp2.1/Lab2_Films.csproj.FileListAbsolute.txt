@@ -21,3 +21,75 @@ D:\Lab2_Films\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.Views.pdb
 D:\Lab2_Films\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.dll
 D:\Lab2_Films\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.pdb
 D:\Lab2_Films\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csproj.CopyComplete
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.deps.json
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.runtimeconfig.json
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.runtimeconfig.dev.json
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.dll
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.pdb
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.Views.dll
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.Views.pdb
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csprojAssemblyReference.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.AssemblyInfoInputs.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.AssemblyInfo.cs
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csproj.CoreCompileInputs.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorAssemblyInfo.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorAssemblyInfo.cs
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.TagHelpers.input.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.TagHelpers.output.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorCoreGenerate.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorTargetAssemblyInfo.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorTargetAssemblyInfo.cs
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.Views.pdb
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.dll
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.pdb
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.genruntimeconfig.cache
+C:\Users\Shadow012631\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csproj.CopyComplete
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csprojAssemblyReference.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.AssemblyInfoInputs.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.AssemblyInfo.cs
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csproj.CoreCompileInputs.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorAssemblyInfo.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorAssemblyInfo.cs
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.dll
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.pdb
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.TagHelpers.input.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.TagHelpers.output.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorCoreGenerate.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorTargetAssemblyInfo.cache
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorTargetAssemblyInfo.cs
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usager\OneDrive - Cégep de Lévis-Lauzon\informatique\Base de donnée et sucurité des applications\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.Views.pdb
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.deps.json
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.runtimeconfig.json
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.runtimeconfig.dev.json
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.dll
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.pdb
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.Views.dll
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\bin\Debug\netcoreapp2.1\Lab2_Films.Views.pdb
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csprojAssemblyReference.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.AssemblyInfoInputs.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.AssemblyInfo.cs
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csproj.CoreCompileInputs.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorAssemblyInfo.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorAssemblyInfo.cs
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.TagHelpers.input.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.TagHelpers.output.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorCoreGenerate.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorTargetAssemblyInfo.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.RazorTargetAssemblyInfo.cs
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.Views.pdb
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.dll
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.pdb
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.genruntimeconfig.cache
+C:\Users\usager\Desktop\Lab2_BaseDeDonnees\Lab2_Films\obj\Debug\netcoreapp2.1\Lab2_Films.csproj.CopyComplete

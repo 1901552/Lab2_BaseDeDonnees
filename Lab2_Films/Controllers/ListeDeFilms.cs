@@ -5,11 +5,6 @@ using System.Threading.Tasks;
 
 namespace Lab2_Films.Controllers
 {
-    public class listeDeFilms
-    {
-        public Film[] Films { get; set; }
-    }
-
     public class BoxOffice
     {
         public string Budget { get; set; }
